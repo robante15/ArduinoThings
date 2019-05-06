@@ -1,0 +1,1 @@
+esptool.exe -vv -cd nodemcu -cb 115200 -cp COM21 -ca 0x00000 -cf ESPEasy_1M_128kSPIFFS_PUYA.bin
