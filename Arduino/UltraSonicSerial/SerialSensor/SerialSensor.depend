@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1558675198 source:d:\mis documentos\robertodev\arduinothings\arduino\ultrasonicserial\serialsensor\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	"SerialPort.h"
+	<cstdlib>
+
+1558672959 d:\mis documentos\robertodev\arduinothings\arduino\ultrasonicserial\serialsensor\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1558672953 source:d:\mis documentos\robertodev\arduinothings\arduino\ultrasonicserial\serialsensor\serialport.cpp
+	"SerialPort.h"
+
